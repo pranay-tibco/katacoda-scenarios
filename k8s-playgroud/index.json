@@ -1,6 +1,6 @@
 {
-  "title": "My First Scenario",
-  "description": "Learning how to educate via Katacoda",
+  "title": "My First k8s Scenario",
+  "description": "Learning how to work with k8s via Katacoda",
   "details": {
     "steps": [
       { "title": "Title", "text": "step1.md" },
